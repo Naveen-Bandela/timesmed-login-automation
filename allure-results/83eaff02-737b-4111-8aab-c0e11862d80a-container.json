@@ -1,0 +1,1 @@
+{"uuid":"83eaff02-737b-4111-8aab-c0e11862d80a","name":"com.timesmed.tests.LoginTest","children":["36d3508b-fc9b-48d5-a3a3-509467df949a"],"befores":[{"name":"initMobileDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1728128938965,"stop":1728128952829}],"afters":[],"start":1728128938939,"stop":1728128953138}

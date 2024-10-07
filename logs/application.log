@@ -1,0 +1,141 @@
+2024-10-05 17:26:01 INFO  BaseTest:34 - Starting of init MobileDriver in BaseTest
+2024-10-05 17:26:13 INFO  BaseTest:52 - Ending of init MobileDriver in BaseTest
+2024-10-05 17:26:14 INFO  LoginTest:29 - Starting of initMobileDriver Method 
+2024-10-05 17:26:14 INFO  BaseTest:34 - Starting of init MobileDriver in BaseTest
+2024-10-05 17:26:25 INFO  BaseTest:52 - Ending of init MobileDriver in BaseTest
+2024-10-05 17:26:25 INFO  LoginTest:33 - Ending of initMobileDriver Method 
+2024-10-05 17:26:28 INFO  LoginTest:43 - Starting of VerifyLogin Method 
+2024-10-05 17:26:28 INFO  LoginPage:32 - Starting of getLoginLabel Method
+2024-10-05 17:26:28 INFO  LoginPage:33 - Starting of getLoginLabel Method
+2024-10-05 17:26:28 INFO  LoginPage:39 - Starting of setPhoneNumber Method
+2024-10-05 17:26:28 INFO  BasePage:23 - Starting of clickOnElement Method 
+2024-10-05 17:26:28 INFO  LoginTest:62 - Ending of VerifyLogin Method
+2024-10-05 17:26:28 INFO  BaseTest:58 - Starting of quit MobileDriver in BaseTest
+2024-10-05 17:26:28 INFO  BaseTest:63 - Ending of quit MobileDriver in BaseTest
+2024-10-05 17:28:33 INFO  BaseTest:34 - Starting of init MobileDriver in BaseTest
+2024-10-05 17:28:45 INFO  BaseTest:52 - Ending of init MobileDriver in BaseTest
+2024-10-05 17:28:45 INFO  LoginTest:29 - Starting of initMobileDriver Method in LoginTest 
+2024-10-05 17:28:45 INFO  BaseTest:34 - Starting of init MobileDriver in BaseTest
+2024-10-05 17:28:57 INFO  BaseTest:52 - Ending of init MobileDriver in BaseTest
+2024-10-05 17:28:57 INFO  LoginTest:33 - Ending of initMobileDriver Method in LoginTest 
+2024-10-05 17:28:59 INFO  LoginTest:43 - Starting of VerifyLogin Method 
+2024-10-05 17:28:59 INFO  LoginPage:32 - Starting of getLoginLabel Method
+2024-10-05 17:28:59 INFO  LoginPage:33 - Starting of getLoginLabel Method
+2024-10-05 17:28:59 INFO  LoginPage:39 - Starting of setPhoneNumber Method
+2024-10-05 17:28:59 INFO  BasePage:23 - Starting of clickOnElement Method 
+2024-10-05 17:28:59 INFO  LoginTest:62 - Ending of VerifyLogin Method
+2024-10-05 17:28:59 INFO  BaseTest:58 - Starting of quit MobileDriver in BaseTest
+2024-10-05 17:29:00 INFO  BaseTest:63 - Ending of quit MobileDriver in BaseTest
+2024-10-05 17:29:21 INFO  LoginTest:29 - Starting of initMobileDriver Method in LoginTest 
+2024-10-05 17:29:21 INFO  BaseTest:34 - Starting of init MobileDriver in BaseTest
+2024-10-05 17:29:33 INFO  BaseTest:52 - Ending of init MobileDriver in BaseTest
+2024-10-05 17:29:33 INFO  LoginTest:33 - Ending of initMobileDriver Method in LoginTest 
+2024-10-05 17:29:35 INFO  LoginTest:43 - Starting of VerifyLogin Method 
+2024-10-05 17:29:35 INFO  LoginPage:32 - Starting of getLoginLabel Method
+2024-10-05 17:29:35 INFO  LoginPage:33 - Starting of getLoginLabel Method
+2024-10-05 17:29:35 INFO  LoginPage:39 - Starting of setPhoneNumber Method
+2024-10-05 17:29:35 INFO  BasePage:23 - Starting of clickOnElement Method 
+2024-10-05 17:29:35 INFO  LoginTest:62 - Ending of VerifyLogin Method
+2024-10-05 17:29:36 INFO  BaseTest:58 - Starting of quit MobileDriver in BaseTest
+2024-10-05 17:29:36 INFO  BaseTest:63 - Ending of quit MobileDriver in BaseTest
+2024-10-05 17:32:20 INFO  LoginTest:29 - Starting of initMobileDriver Method in LoginTest 
+2024-10-05 17:32:20 INFO  BaseTest:34 - Starting of init MobileDriver in BaseTest
+2024-10-05 17:32:33 INFO  BaseTest:52 - Ending of init MobileDriver in BaseTest
+2024-10-05 17:32:33 INFO  LoginTest:33 - Ending of initMobileDriver Method in LoginTest 
+2024-10-05 17:32:40 INFO  LoginTest:43 - Starting of VerifyLogin Method 
+2024-10-05 17:32:40 INFO  LoginPage:32 - Starting of getLoginLabel Method
+2024-10-05 17:32:40 INFO  LoginPage:33 - Starting of getLoginLabel Method
+2024-10-05 17:32:50 INFO  LoginPage:39 - Starting of setPhoneNumber Method
+2024-10-05 17:34:09 INFO  BasePage:23 - Starting of clickOnElement Method 
+2024-10-05 17:34:09 INFO  LoginTest:62 - Ending of VerifyLogin Method
+2024-10-05 17:34:09 INFO  BaseTest:58 - Starting of quit MobileDriver in BaseTest
+2024-10-05 17:39:01 INFO  LoginTest:29 - Starting of initMobileDriver Method in LoginTest 
+2024-10-05 17:39:01 INFO  BaseTest:35 - Starting of init MobileDriver in BaseTest
+2024-10-05 17:39:14 INFO  BaseTest:53 - Ending of init MobileDriver in BaseTest
+2024-10-05 17:39:14 INFO  LoginTest:33 - Ending of initMobileDriver Method in LoginTest 
+2024-10-05 17:39:16 INFO  LoginTest:43 - Starting of VerifyLogin Method 
+2024-10-05 17:39:16 INFO  LoginPage:35 - Starting of getLoginLabel Method
+2024-10-05 17:39:16 INFO  LoginPage:36 - Starting of getLoginLabel Method
+2024-10-05 17:39:16 INFO  LoginPage:42 - Starting of setPhoneNumber Method
+2024-10-05 17:39:16 INFO  BasePage:24 - Starting of clickOnElement Method 
+2024-10-05 17:39:16 INFO  LoginTest:62 - Ending of VerifyLogin Method
+2024-10-05 17:39:16 INFO  BaseTest:59 - Starting of quit MobileDriver in BaseTest
+2024-10-05 17:39:17 INFO  BaseTest:64 - Ending of quit MobileDriver in BaseTest
+2024-10-05 17:45:27 INFO  LoginTest:29 - Starting of initMobileDriver Method in LoginTest 
+2024-10-05 17:45:27 INFO  BaseTest:35 - Starting of init MobileDriver in BaseTest
+2024-10-05 17:45:40 INFO  BaseTest:53 - Ending of init MobileDriver in BaseTest
+2024-10-05 17:45:40 INFO  LoginTest:34 - Ending of initMobileDriver Method in LoginTest 
+2024-10-05 17:45:42 INFO  LoginTest:44 - Starting of VerifyLogin Method 
+2024-10-05 17:45:42 INFO  LoginPage:35 - Starting of getLoginLabel Method
+2024-10-05 17:45:42 INFO  LoginPage:36 - Starting of getLoginLabel Method
+2024-10-05 17:45:42 INFO  LoginPage:42 - Starting of setPhoneNumber Method
+2024-10-05 17:45:42 INFO  BasePage:24 - Starting of clickOnElement Method 
+2024-10-05 17:45:43 INFO  BasePage:28 - Ending of clickOnElement Method 
+2024-10-05 17:45:43 INFO  BasePage:33 - Starting of enterText Method 
+2024-10-05 17:45:45 INFO  BasePage:36 - Ending of enterText Method 
+2024-10-05 17:45:45 INFO  LoginPage:47 - Ending of setPhoneNumber Method
+2024-10-05 17:45:45 INFO  LoginPage:51 - Starting of setPassword Method
+2024-10-05 17:45:45 INFO  BasePage:24 - Starting of clickOnElement Method 
+2024-10-05 17:45:46 INFO  BasePage:28 - Ending of clickOnElement Method 
+2024-10-05 17:45:46 INFO  BasePage:33 - Starting of enterText Method 
+2024-10-05 17:45:47 INFO  BasePage:36 - Ending of enterText Method 
+2024-10-05 17:45:47 INFO  LoginPage:56 - Ending of setPassword Method
+2024-10-05 17:45:50 INFO  LoginPage:61 - Starting of clickonLoginButton Method
+2024-10-05 17:45:51 INFO  BasePage:24 - Starting of clickOnElement Method 
+2024-10-05 17:45:52 INFO  BasePage:28 - Ending of clickOnElement Method 
+2024-10-05 17:45:52 INFO  LoginPage:67 - Ending of clickonLoginButton Method
+2024-10-05 17:45:52 INFO  LoginTest:63 - Ending of VerifyLogin Method
+2024-10-05 17:45:52 INFO  BaseTest:59 - Starting of quit MobileDriver in BaseTest
+2024-10-05 17:45:53 INFO  BaseTest:64 - Ending of quit MobileDriver in BaseTest
+2024-10-05 17:49:48 INFO  LoginTest:29 - Starting of initMobileDriver Method in LoginTest 
+2024-10-05 17:49:48 INFO  BaseTest:35 - Starting of init MobileDriver in BaseTest
+2024-10-05 17:50:01 INFO  BaseTest:53 - Ending of init MobileDriver in BaseTest
+2024-10-05 17:50:01 INFO  LoginTest:33 - Ending of initMobileDriver Method in LoginTest 
+2024-10-05 17:50:03 INFO  LoginTest:43 - Starting of VerifyLogin Method 
+2024-10-05 17:50:03 INFO  LoginPage:35 - Starting of getLoginLabel Method
+2024-10-05 17:50:03 INFO  LoginPage:36 - Starting of getLoginLabel Method
+2024-10-05 17:50:03 INFO  LoginPage:42 - Starting of setPhoneNumber Method
+2024-10-05 17:50:03 INFO  BasePage:24 - Starting of clickOnElement Method 
+2024-10-05 17:50:05 INFO  BasePage:28 - Ending of clickOnElement Method 
+2024-10-05 17:50:05 INFO  BasePage:33 - Starting of enterText Method 
+2024-10-05 17:50:06 INFO  BasePage:36 - Ending of enterText Method 
+2024-10-05 17:50:06 INFO  LoginPage:47 - Ending of setPhoneNumber Method
+2024-10-05 17:50:06 INFO  LoginPage:51 - Starting of setPassword Method
+2024-10-05 17:50:06 INFO  BasePage:24 - Starting of clickOnElement Method 
+2024-10-05 17:50:07 INFO  BasePage:28 - Ending of clickOnElement Method 
+2024-10-05 17:50:07 INFO  BasePage:33 - Starting of enterText Method 
+2024-10-05 17:50:08 INFO  BasePage:36 - Ending of enterText Method 
+2024-10-05 17:50:08 INFO  LoginPage:56 - Ending of setPassword Method
+2024-10-05 17:50:11 INFO  LoginPage:61 - Starting of clickonLoginButton Method
+2024-10-05 17:50:12 INFO  BasePage:24 - Starting of clickOnElement Method 
+2024-10-05 17:50:12 INFO  BasePage:28 - Ending of clickOnElement Method 
+2024-10-05 17:50:12 INFO  LoginPage:67 - Ending of clickonLoginButton Method
+2024-10-05 17:50:12 INFO  LoginTest:62 - Ending of VerifyLogin Method
+2024-10-05 17:50:13 INFO  BaseTest:59 - Starting of quit MobileDriver in BaseTest
+2024-10-05 17:50:13 INFO  BaseTest:64 - Ending of quit MobileDriver in BaseTest
+2024-10-05 18:02:46 INFO  LoginTest:29 - Starting of initMobileDriver Method in LoginTest 
+2024-10-05 18:02:46 INFO  BaseTest:33 - Starting of init MobileDriver in BaseTest
+2024-10-05 18:02:57 INFO  BaseTest:51 - Ending of init MobileDriver in BaseTest
+2024-10-05 18:02:57 INFO  LoginTest:33 - Ending of initMobileDriver Method in LoginTest 
+2024-10-05 18:02:59 INFO  LoginTest:43 - Starting of VerifyLogin Method 
+2024-10-05 18:02:59 INFO  LoginPage:35 - Starting of getLoginLabel Method
+2024-10-05 18:02:59 INFO  LoginPage:36 - Starting of getLoginLabel Method
+2024-10-05 18:02:59 INFO  LoginPage:42 - Starting of setPhoneNumber Method
+2024-10-05 18:02:59 INFO  BasePage:24 - Starting of clickOnElement Method 
+2024-10-05 18:03:00 INFO  BasePage:28 - Ending of clickOnElement Method 
+2024-10-05 18:03:00 INFO  BasePage:33 - Starting of enterText Method 
+2024-10-05 18:03:01 INFO  BasePage:36 - Ending of enterText Method 
+2024-10-05 18:03:01 INFO  LoginPage:47 - Ending of setPhoneNumber Method
+2024-10-05 18:03:01 INFO  LoginPage:51 - Starting of setPassword Method
+2024-10-05 18:03:01 INFO  BasePage:24 - Starting of clickOnElement Method 
+2024-10-05 18:03:02 INFO  BasePage:28 - Ending of clickOnElement Method 
+2024-10-05 18:03:02 INFO  BasePage:33 - Starting of enterText Method 
+2024-10-05 18:03:03 INFO  BasePage:36 - Ending of enterText Method 
+2024-10-05 18:03:03 INFO  LoginPage:56 - Ending of setPassword Method
+2024-10-05 18:03:06 INFO  LoginPage:61 - Starting of clickonLoginButton Method
+2024-10-05 18:03:07 INFO  BasePage:24 - Starting of clickOnElement Method 
+2024-10-05 18:03:08 INFO  BasePage:28 - Ending of clickOnElement Method 
+2024-10-05 18:03:08 INFO  LoginPage:67 - Ending of clickonLoginButton Method
+2024-10-05 18:03:08 INFO  LoginTest:62 - Ending of VerifyLogin Method
+2024-10-05 18:03:08 INFO  BaseTest:57 - Starting of quit MobileDriver in BaseTest
+2024-10-05 18:03:08 INFO  BaseTest:62 - Ending of quit MobileDriver in BaseTest
